@@ -13,4 +13,5 @@
 <hr/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viktor8551&show_icons=true&locale=en&layout=compact" alt="viktor8551" />
+<hr/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=viktor8551&show_icons=true&locale=en" alt="viktor8551" />
